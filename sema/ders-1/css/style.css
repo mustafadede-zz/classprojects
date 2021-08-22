@@ -1,0 +1,56 @@
+* {
+    padding: 0;
+    margin:0;
+}
+
+body {
+    background-color: rgb(207, 207, 207);
+}
+
+.menu {
+    background-color: teal;
+    padding: 0 25px 10px 25px;
+}
+
+h1 {
+    color: white;
+    display: inline;
+}
+
+.title {
+    font-size: 32px;
+    color: white;
+    text-decoration: none;
+}
+
+.addpadding {
+    padding: 3px 8px 7px 8px;
+}
+
+.projects {
+    font-size: 32px;
+    color: white;
+    text-decoration: none;
+    float: right;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.projects:hover {
+    color: rgb(207, 207, 207);
+    background-color: rgb(80, 152, 155);
+}
+
+.hakkinda {
+    font-size: 32px;
+    color: white;
+    text-decoration: none;
+    float: right;
+    padding-left:15px;
+    padding-right:15px;
+}
+
+.hakkinda:hover {
+    color: rgb(207, 207, 207);
+    background-color: rgb(80, 152, 155);
+}

@@ -1,0 +1,16 @@
+.content {
+    margin: 15px 25px 0 25px;
+    background-color: silver;
+    padding: 15px 15px 20px 15px;
+    text-align: center;
+}
+
+h1 {
+    color: darkorchid;
+}
+
+p {
+    text-align: left;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}

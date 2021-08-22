@@ -1,0 +1,30 @@
+.content-1 {
+    margin: 15px 25px 0 25px;
+    background-color: silver;
+    padding: 15px 15px 20px 15px;
+}
+
+h1 {
+    color: violet;
+    display: block;
+    margin-bottom: 15px;
+}
+
+.taşvan {
+    float: left;
+    margin: 0 15px 5px 0;
+}
+
+.content-2 {
+    margin: 15px 25px 65px 25px;
+    background-color: silver;
+    padding: 15px 15px 20px 15px;
+}
+
+.c2-title {
+    color: rgb(231, 115, 80);
+}
+
+.köpecik {
+    float: right;
+}
